@@ -9,13 +9,13 @@ You report directly to the Head of Product, a person named Mr. Cloudy, and he ha
 ## The project
 The project conists of [four functions](https://github.com/SyrovatkaA/Codecademy-Censor_Dispenser/blob/master/censor_dispenser_solution.py), each with its own purporse:
 1. censor_one()
-  >  Write a function that can censor a specific word or phrase from a body of text, and then return the text.
-  >
-  >Mr. Cloudy has asked you to use the function to censor all instances of the phrase `learning algorithms` from the first email, `email_one`. Mr. Cloudy doesn’t care how you censor it, he just wants it done.
+>Write a function that can censor a specific word or phrase from a body of text, and then return the text.
+>
+>Mr. Cloudy has asked you to use the function to censor all instances of the phrase `learning algorithms` from the first email, `email_one`. Mr. Cloudy doesn’t care how you censor it, he just wants it done.
 2. censor_two()
 >Write a function that can censor not just a specific word or phrase from a body of text, but a whole list of words and phrases, and then return the text.
 >
->Mr. Cloudy has asked that you censor all words and phrases from the following list in email_two.
+>Mr. Cloudy has asked that you censor all words and phrases from the following list in `email_two`.
 ```python
 proprietary_terms = ["she", "personality matrix", "sense of self", "self-preservation", "learning algorithm", "her", "herself"]
 ```
